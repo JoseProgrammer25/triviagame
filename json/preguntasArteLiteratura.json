@@ -1,0 +1,146 @@
+[
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "opciones": ["Miguel Ángel", "Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso"],
+        "respuestaCorrecta": "Leonardo da Vinci"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Quién escribió 'Don Quijote de la Mancha'?",
+        "opciones": ["Lope de Vega", "Miguel de Cervantes", "Gabriel García Márquez", "Federico García Lorca"],
+        "respuestaCorrecta": "Miguel de Cervantes"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿En qué museo se encuentra la Mona Lisa?",
+        "opciones": ["Museo del Prado", "Museo de Orsay", "Museo del Louvre", "Galería Uffizi"],
+        "respuestaCorrecta": "Museo del Louvre"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Quién es el autor de 'Cien años de soledad'?",
+        "opciones": ["Pablo Neruda", "Mario Vargas Llosa", "Gabriel García Márquez", "Jorge Luis Borges"],
+        "respuestaCorrecta": "Gabriel García Márquez"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Cuál de estos libros fue escrito por William Shakespeare?",
+        "opciones": ["Hamlet", "La Divina Comedia", "Orgullo y Prejuicio", "El Principito"],
+        "respuestaCorrecta": "Hamlet"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Quién pintó 'La noche estrellada'?",
+        "opciones": ["Claude Monet", "Salvador Dalí", "Vincent van Gogh", "Francisco de Goya"],
+        "respuestaCorrecta": "Vincent van Gogh"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Cuál es la obra más famosa de Dante Alighieri?",
+        "opciones": ["La Ilíada", "La Divina Comedia", "El Decamerón", "Fausto"],
+        "respuestaCorrecta": "La Divina Comedia"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Quién escribió 'Moby Dick'?",
+        "opciones": ["Mark Twain", "Herman Melville", "Jules Verne", "Ernest Hemingway"],
+        "respuestaCorrecta": "Herman Melville"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Qué pintor español es conocido por su obra 'Las Meninas'?",
+        "opciones": ["El Greco", "Francisco de Goya", "Diego Velázquez", "Salvador Dalí"],
+        "respuestaCorrecta": "Diego Velázquez"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Quién escribió 'El retrato de Dorian Gray'?",
+        "opciones": ["Oscar Wilde", "Charles Dickens", "Edgar Allan Poe", "H.P. Lovecraft"],
+        "respuestaCorrecta": "Oscar Wilde"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Qué artista es famoso por sus pinturas de relojes derretidos?",
+        "opciones": ["Pablo Picasso", "René Magritte", "Salvador Dalí", "Joan Miró"],
+        "respuestaCorrecta": "Salvador Dalí"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Quién es el autor de 'El principito'?",
+        "opciones": ["Antoine de Saint-Exupéry", "Herman Hesse", "Lewis Carroll", "J.R.R. Tolkien"],
+        "respuestaCorrecta": "Antoine de Saint-Exupéry"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Quién escribió 'Crimen y castigo'?",
+        "opciones": ["León Tolstói", "Fiódor Dostoievski", "Nikolái Gógol", "Antón Chéjov"],
+        "respuestaCorrecta": "Fiódor Dostoievski"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Cuál es el nombre real de Pablo Neruda?",
+        "opciones": ["Ricardo Eliécer Neftalí Reyes Basoalto", "Jorge Luis Borges", "Julio Cortázar", "Vicente Huidobro"],
+        "respuestaCorrecta": "Ricardo Eliécer Neftalí Reyes Basoalto"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Qué escritor creó al personaje de Sherlock Holmes?",
+        "opciones": ["Agatha Christie", "Arthur Conan Doyle", "Edgar Allan Poe", "Bram Stoker"],
+        "respuestaCorrecta": "Arthur Conan Doyle"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Quién pintó 'La última cena'?",
+        "opciones": ["Rafael", "Leonardo da Vinci", "Caravaggio", "Miguel Ángel"],
+        "respuestaCorrecta": "Leonardo da Vinci"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Qué poeta escribió 'Veinte poemas de amor y una canción desesperada'?",
+        "opciones": ["Octavio Paz", "Pablo Neruda", "Federico García Lorca", "Rubén Darío"],
+        "respuestaCorrecta": "Pablo Neruda"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿En qué siglo se escribió 'El Quijote'?",
+        "opciones": ["XVI", "XVII", "XVIII", "XIX"],
+        "respuestaCorrecta": "XVII"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Qué autor escribió '1984'?",
+        "opciones": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Philip K. Dick"],
+        "respuestaCorrecta": "George Orwell"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Quién pintó 'El grito'?",
+        "opciones": ["Gustav Klimt", "Edvard Munch", "Francisco de Goya", "Henri Matisse"],
+        "respuestaCorrecta": "Edvard Munch"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Quién es el autor de 'El señor de los anillos'?",
+        "opciones": ["C.S. Lewis", "J.R.R. Tolkien", "Isaac Asimov", "H.G. Wells"],
+        "respuestaCorrecta": "J.R.R. Tolkien"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿En qué país nació Vincent van Gogh?",
+        "opciones": ["Bélgica", "Francia", "Países Bajos", "Alemania"],
+        "respuestaCorrecta": "Países Bajos"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Cuál de estas obras fue escrita por Franz Kafka?",
+        "opciones": ["Fausto", "Ulises", "La metamorfosis", "En busca del tiempo perdido"],
+        "respuestaCorrecta": "La metamorfosis"
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Qué poeta español escribió 'Romancero gitano'?",
+        "opciones": ["Antonio Machado", "Federico García Lorca", "Rafael Alberti", "Luis Cernuda"],
+        "respuestaCorrecta": "Federico García Lorca"
+    }
+]

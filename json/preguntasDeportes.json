@@ -1,0 +1,176 @@
+[
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos jugadores forman un equipo de fútbol en el campo?",
+        "opciones": ["9", "10", "11", "12"],
+        "respuestaCorrecta": "11"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué país se originó el fútbol?",
+        "opciones": ["Brasil", "Inglaterra", "España", "Italia"],
+        "respuestaCorrecta": "Inglaterra"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos puntos vale un tiro de campo en baloncesto fuera de la línea de tres?",
+        "opciones": ["2", "3", "4", "1"],
+        "respuestaCorrecta": "3"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es la duración de un partido de fútbol profesional?",
+        "opciones": ["60 minutos", "90 minutos", "120 minutos", "80 minutos"],
+        "respuestaCorrecta": "90 minutos"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué jugador de baloncesto es conocido como 'Air Jordan'?",
+        "opciones": ["LeBron James", "Kobe Bryant", "Michael Jordan", "Shaquille O'Neal"],
+        "respuestaCorrecta": "Michael Jordan"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué deporte se usa un palo llamado 'stick'?",
+        "opciones": ["Béisbol", "Hockey", "Críquet", "Golf"],
+        "respuestaCorrecta": "Hockey"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos jugadores componen un equipo de voleibol en la cancha?",
+        "opciones": ["4", "5", "6", "7"],
+        "respuestaCorrecta": "6"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué selección de fútbol ha ganado más Copas del Mundo?",
+        "opciones": ["Argentina", "Brasil", "Alemania", "Italia"],
+        "respuestaCorrecta": "Brasil"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué año se celebraron los primeros Juegos Olímpicos modernos?",
+        "opciones": ["1892", "1900", "1896", "1912"],
+        "respuestaCorrecta": "1896"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos sets debe ganar un tenista en un partido de Grand Slam masculino?",
+        "opciones": ["3", "4", "5", "2"],
+        "respuestaCorrecta": "3"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el deporte más popular del mundo?",
+        "opciones": ["Baloncesto", "Tenis", "Fútbol", "Béisbol"],
+        "respuestaCorrecta": "Fútbol"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué país ha ganado más medallas olímpicas en la historia?",
+        "opciones": ["China", "Estados Unidos", "Rusia", "Reino Unido"],
+        "respuestaCorrecta": "Estados Unidos"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama el torneo más importante del tenis mundial?",
+        "opciones": ["US Open", "Roland Garros", "Wimbledon", "Australian Open"],
+        "respuestaCorrecta": "Wimbledon"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué equipo ha ganado más títulos de la Champions League?",
+        "opciones": ["Barcelona", "Manchester United", "Real Madrid", "Bayern Múnich"],
+        "respuestaCorrecta": "Real Madrid"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el deporte en el que se utiliza una tabla sobre el agua?",
+        "opciones": ["Surf", "Esquí acuático", "Paddleboarding", "Kitesurf"],
+        "respuestaCorrecta": "Surf"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué deporte es conocido como el 'deporte blanco'?",
+        "opciones": ["Esgrima", "Golf", "Tenis", "Hockey sobre hielo"],
+        "respuestaCorrecta": "Tenis"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién es el máximo goleador de la historia de los mundiales de fútbol?",
+        "opciones": ["Pelé", "Lionel Messi", "Miroslav Klose", "Cristiano Ronaldo"],
+        "respuestaCorrecta": "Miroslav Klose"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos puntos se necesitan para ganar un set en el tenis?",
+        "opciones": ["4", "6", "7", "5"],
+        "respuestaCorrecta": "6"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué deporte se usa un 'touchdown'?",
+        "opciones": ["Fútbol americano", "Rugby", "Balonmano", "Hockey"],
+        "respuestaCorrecta": "Fútbol americano"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué deporte se juega con una raqueta y un volante?",
+        "opciones": ["Bádminton", "Squash", "Tenis de mesa", "Tenis"],
+        "respuestaCorrecta": "Bádminton"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuánto dura un partido de baloncesto de la NBA?",
+        "opciones": ["40 minutos", "48 minutos", "50 minutos", "45 minutos"],
+        "respuestaCorrecta": "48 minutos"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué país nació el judo?",
+        "opciones": ["China", "Japón", "Corea del Sur", "Rusia"],
+        "respuestaCorrecta": "Japón"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el trofeo que se entrega al ganador de la NFL?",
+        "opciones": ["Trofeo Heisman", "Trofeo Lombardi", "Copa del Mundo", "Trofeo Stanley"],
+        "respuestaCorrecta": "Trofeo Lombardi"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué ciudad se celebraron los Juegos Olímpicos de 2016?",
+        "opciones": ["Tokio", "Londres", "Pekín", "Río de Janeiro"],
+        "respuestaCorrecta": "Río de Janeiro"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el nombre de la liga de béisbol más famosa de EE.UU.?",
+        "opciones": ["NBA", "NFL", "MLB", "NHL"],
+        "respuestaCorrecta": "MLB"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos tiempos tiene un partido de rugby?",
+        "opciones": ["2", "3", "4", "1"],
+        "respuestaCorrecta": "2"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué ciclista ganó 7 Tours de Francia consecutivos antes de ser descalificado?",
+        "opciones": ["Eddy Merckx", "Miguel Induráin", "Lance Armstrong", "Chris Froome"],
+        "respuestaCorrecta": "Lance Armstrong"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos jugadores hay en un equipo de béisbol en el campo?",
+        "opciones": ["8", "9", "10", "7"],
+        "respuestaCorrecta": "9"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es la distancia de una maratón?",
+        "opciones": ["21 km", "42.195 km", "50 km", "35 km"],
+        "respuestaCorrecta": "42.195 km"
+    }
+]

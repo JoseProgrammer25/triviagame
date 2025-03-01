@@ -1,0 +1,182 @@
+[
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué emperador romano hizo del cristianismo la religión oficial del Imperio?",
+        "opciones": ["Constantino", "Julio César", "Nerón", "Trajano"],
+        "respuestaCorrecta": "Constantino"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál fue el conflicto militar más largo de la historia moderna?",
+        "opciones": ["Guerra de los 30 años", "Guerra de Vietnam", "Guerra de los 100 años", "Guerra de Corea"],
+        "respuestaCorrecta": "Guerra de los 100 años"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién fue el primer presidente de los Estados Unidos?",
+        "opciones": ["Thomas Jefferson", "John Adams", "George Washington", "James Madison"],
+        "respuestaCorrecta": "George Washington"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué faraón ordenó la construcción de la Gran Pirámide de Giza?",
+        "opciones": ["Tutankamón", "Ramsés II", "Keops", "Akhenatón"],
+        "respuestaCorrecta": "Keops"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+        "opciones": ["Tratado de Versalles", "Tratado de París", "Tratado de Tordesillas", "Tratado de Utrecht"],
+        "respuestaCorrecta": "Tratado de Versalles"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué evento desencadenó la Segunda Guerra Mundial?",
+        "opciones": ["Ataque a Pearl Harbor", "Invasión de Polonia", "Batalla de Stalingrado", "Desembarco de Normandía"],
+        "respuestaCorrecta": "Invasión de Polonia"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué líder sudafricano fue liberado de prisión en 1990 después de 27 años?",
+        "opciones": ["Nelson Mandela", "Desmond Tutu", "Frederik de Klerk", "Steve Biko"],
+        "respuestaCorrecta": "Nelson Mandela"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué civilización antigua construyó Machu Picchu?",
+        "opciones": ["Azteca", "Maya", "Inca", "Olmeca"],
+        "respuestaCorrecta": "Inca"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año se descubrió América?",
+        "opciones": ["1492", "1493", "1494", "1495"],
+        "respuestaCorrecta": "1492"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año se firmó el Tratado de Versalles?",
+        "opciones": ["1918", "1919", "1920", "1921"],
+        "respuestaCorrecta": "1919"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año se produjo la Revolución Rusa?",
+        "opciones": ["1917", "1918", "1919", "1920"],
+        "respuestaCorrecta": "1917"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año se produjo la Revolución Francesa?",
+        "opciones": ["1789", "1790", "1791", "1792"],
+        "respuestaCorrecta": "1789"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año se produjo la Guerra de los 100 años?",
+        "opciones": ["1337", "1338", "1339", "1340"],
+        "respuestaCorrecta": "1337"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año se produjo la Guerra de los 30 años?",
+        "opciones": ["1618", "1619", "1620", "1621"],
+        "respuestaCorrecta": "1618"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año se produjo la Guerra de los 7 años?",
+        "opciones": ["1756", "1757", "1758", "1759"],
+        "respuestaCorrecta": "1756"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año se produjo la Guerra de los 6 días?",
+        "opciones": ["1967", "1968", "1969", "1970"],
+        "respuestaCorrecta": "1967"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año cayó el Muro de Berlín?",
+        "opciones": ["1987", "1988", "1989", "1990"],
+        "respuestaCorrecta": "1989"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año comenzó la Revolución Industrial?",
+        "opciones": ["1750", "1760", "1770", "1780"],
+        "respuestaCorrecta": "1760"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año terminó la Segunda Guerra Mundial?",
+        "opciones": ["1944", "1945", "1946", "1947"],
+        "respuestaCorrecta": "1945"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año se fundó la Organización de las Naciones Unidas (ONU)?",
+        "opciones": ["1943", "1944", "1945", "1946"],
+        "respuestaCorrecta": "1945"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año se produjo la Revolución Cubana?",
+        "opciones": ["1956", "1957", "1958", "1959"],
+        "respuestaCorrecta": "1959"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año se produjo la independencia de la India?",
+        "opciones": ["1945", "1946", "1947", "1948"],
+        "respuestaCorrecta": "1947"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+        "opciones": ["1774", "1775", "1776", "1777"],
+        "respuestaCorrecta": "1776"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año se produjo el ataque a Pearl Harbor?",
+        "opciones": ["1940", "1941", "1942", "1943"],
+        "respuestaCorrecta": "1941"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién fue el líder del movimiento de independencia de la India?",
+        "opciones": ["Mahatma Gandhi", "Jawaharlal Nehru", "Subhas Chandra Bose", "Rajendra Prasad"],
+        "respuestaCorrecta": "Mahatma Gandhi"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién escribió el Manifiesto Comunista?",
+        "opciones": ["Karl Marx", "Friedrich Engels", "Vladimir Lenin", "Leon Trotsky"],
+        "respuestaCorrecta": "Karl Marx"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién fue el líder de la revolución china que estableció la República Popular de China en 1949?",
+        "opciones": ["Mao Zedong", "Deng Xiaoping", "Sun Yat-sen", "Zhou Enlai"],
+        "respuestaCorrecta": "Mao Zedong"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué movimiento político tuvo lugar en Sudáfrica y fue liderado por Nelson Mandela?",
+        "opciones": ["Apartheid", "Descolonización", "Lucha contra el colonialismo", "Movimientos de liberación"],
+        "respuestaCorrecta": "Apartheid"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién fue el dictador español que gobernó desde 1939 hasta su muerte en 1975?",
+        "opciones": ["Francisco Franco", "Adolfo Suárez", "Manuel Azaña", "Luis Carrero Blanco"],
+        "respuestaCorrecta": "Francisco Franco"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué conferencia, celebrada en 1884-1885, marcó el reparto de África entre las potencias europeas?",
+        "opciones": ["Conferencia de Berlín", "Conferencia de Viena", "Conferencia de París", "Conferencia de Londres"],
+        "respuestaCorrecta": "Conferencia de Berlín"
+    }
+]

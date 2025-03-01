@@ -1,0 +1,176 @@
+[
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es el elemento químico más abundante en el universo?",
+        "opciones": ["Oxígeno", "Hidrógeno", "Nitrógeno", "Helio"],
+        "respuestaCorrecta": "Hidrógeno"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+        "opciones": ["Saturno", "Neptuno", "Júpiter", "Urano"],
+        "respuestaCorrecta": "Júpiter"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué tipo de sangre se considera donante universal?",
+        "opciones": ["AB-", "O-", "O+", "A-"],
+        "respuestaCorrecta": "O-"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es el metal más ligero?",
+        "opciones": ["Litio", "Aluminio", "Sodio", "Magnesio"],
+        "respuestaCorrecta": "Litio"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué científico formuló la teoría de la relatividad?",
+        "opciones": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Nikola Tesla"],
+        "respuestaCorrecta": "Albert Einstein"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es la unidad de medida de la fuerza en el Sistema Internacional?",
+        "opciones": ["Joule", "Newton", "Pascal", "Watt"],
+        "respuestaCorrecta": "Newton"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué gas es esencial para la respiración humana?",
+        "opciones": ["Nitrógeno", "Oxígeno", "Dióxido de carbono", "Hidrógeno"],
+        "respuestaCorrecta": "Oxígeno"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es la partícula subatómica con carga negativa?",
+        "opciones": ["Protones", "Electrones", "Neutrones", "Quarks"],
+        "respuestaCorrecta": "Electrones"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+        "opciones": ["Pulmones", "Hígado", "Piel", "Cerebro"],
+        "respuestaCorrecta": "Piel"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuántos cromosomas tiene el ser humano?",
+        "opciones": ["48", "23", "46", "44"],
+        "respuestaCorrecta": "46"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es la fórmula química del agua?",
+        "opciones": ["H3O", "HO", "H2O", "O2H"],
+        "respuestaCorrecta": "H2O"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué planeta es conocido como el 'Planeta Rojo'?",
+        "opciones": ["Júpiter", "Venus", "Marte", "Mercurio"],
+        "respuestaCorrecta": "Marte"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué gas es responsable del efecto invernadero?",
+        "opciones": ["Ozono", "Dióxido de carbono", "Hidrógeno", "Argón"],
+        "respuestaCorrecta": "Dióxido de carbono"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es la velocidad de la luz en el vacío?",
+        "opciones": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "100,000 km/s"],
+        "respuestaCorrecta": "300,000 km/s"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué vitamina es producida por la exposición al sol?",
+        "opciones": ["Vitamina C", "Vitamina A", "Vitamina D", "Vitamina B12"],
+        "respuestaCorrecta": "Vitamina D"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué gas es utilizado en los globos aerostáticos?",
+        "opciones": ["Hidrógeno", "Oxígeno", "Helio", "Nitrógeno"],
+        "respuestaCorrecta": "Helio"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Quién descubrió la penicilina?",
+        "opciones": ["Alexander Fleming", "Marie Curie", "Louis Pasteur", "Robert Koch"],
+        "respuestaCorrecta": "Alexander Fleming"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué tipo de energía usa una planta para la fotosíntesis?",
+        "opciones": ["Química", "Mecánica", "Solar", "Térmica"],
+        "respuestaCorrecta": "Solar"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
+        "opciones": ["Fémur", "Radio", "Tibia", "Húmero"],
+        "respuestaCorrecta": "Fémur"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuántos planetas tiene el sistema solar?",
+        "opciones": ["7", "8", "9", "10"],
+        "respuestaCorrecta": "8"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué animal tiene el corazón en la cabeza?",
+        "opciones": ["Cangrejo", "Pez payaso", "Pulpo", "Estrella de mar"],
+        "respuestaCorrecta": "Cangrejo"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Quién propuso la teoría de la evolución?",
+        "opciones": ["Isaac Newton", "Charles Darwin", "Gregor Mendel", "Galileo Galilei"],
+        "respuestaCorrecta": "Charles Darwin"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cómo se llama la capa más externa de la Tierra?",
+        "opciones": ["Núcleo", "Manto", "Corteza", "Litosfera"],
+        "respuestaCorrecta": "Corteza"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es la unidad de medida de la energía?",
+        "opciones": ["Joule", "Watt", "Newton", "Pascal"],
+        "respuestaCorrecta": "Joule"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué gas constituye la mayor parte de la atmósfera terrestre?",
+        "opciones": ["Oxígeno", "Dióxido de carbono", "Nitrógeno", "Argón"],
+        "respuestaCorrecta": "Nitrógeno"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué célula es responsable del transporte de oxígeno en la sangre?",
+        "opciones": ["Glóbulos blancos", "Plaquetas", "Glóbulos rojos", "Neuronas"],
+        "respuestaCorrecta": "Glóbulos rojos"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué rama de la biología estudia los insectos?",
+        "opciones": ["Botánica", "Entomología", "Ecología", "Zoología"],
+        "respuestaCorrecta": "Entomología"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué fuerza mantiene a los planetas en órbita alrededor del Sol?",
+        "opciones": ["Electromagnética", "Gravitacional", "Centrífuga", "Magnética"],
+        "respuestaCorrecta": "Gravitacional"
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es el proceso mediante el cual las plantas producen su propio alimento?",
+        "opciones": ["Respiración", "Fotosíntesis", "Quimiosíntesis", "Fermentación"],
+        "respuestaCorrecta": "Fotosíntesis"
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es el país más grande del mundo en superficie?",
+        "opciones": ["Estados Unidos", "China", "Canadá", "Rusia"],
+        "respuestaCorrecta": "Rusia"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es el océano más grande del mundo?",
+        "opciones": ["Atlántico", "Índico", "Pacífico", "Ártico"],
+        "respuestaCorrecta": "Pacífico"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital de Canadá?",
+        "opciones": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+        "respuestaCorrecta": "Ottawa"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es el país con mayor población del mundo?",
+        "opciones": ["India", "Estados Unidos", "China", "Brasil"],
+        "respuestaCorrecta": "China"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué continente se encuentra Egipto?",
+        "opciones": ["Asia", "Europa", "África", "Oceanía"],
+        "respuestaCorrecta": "África"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué río es el más largo del mundo?",
+        "opciones": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+        "respuestaCorrecta": "Nilo"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es el desierto más grande del mundo?",
+        "opciones": ["Sahara", "Gobi", "Atacama", "Kalahari"],
+        "respuestaCorrecta": "Sahara"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la montaña más alta del mundo?",
+        "opciones": ["K2", "Everest", "Kilimanjaro", "Aconcagua"],
+        "respuestaCorrecta": "Everest"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué país tiene la mayor cantidad de islas en el mundo?",
+        "opciones": ["Canadá", "Indonesia", "Filipinas", "Suecia"],
+        "respuestaCorrecta": "Suecia"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué país se encuentra la Torre Eiffel?",
+        "opciones": ["Italia", "Francia", "España", "Alemania"],
+        "respuestaCorrecta": "Francia"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué país tiene la ciudad de Tokio como capital?",
+        "opciones": ["Corea del Sur", "Japón", "China", "Vietnam"],
+        "respuestaCorrecta": "Japón"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué país se encuentra la Gran Muralla China?",
+        "opciones": ["China", "Japón", "India", "Corea del Norte"],
+        "respuestaCorrecta": "China"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital de Argentina?",
+        "opciones": ["Buenos Aires", "Montevideo", "Lima", "Santiago"],
+        "respuestaCorrecta": "Buenos Aires"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es el país más pequeño del mundo?",
+        "opciones": ["San Marino", "Mónaco", "Vaticano", "Liechtenstein"],
+        "respuestaCorrecta": "Vaticano"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es el lago más grande del mundo?",
+        "opciones": ["Lago Superior", "Mar Caspio", "Lago Victoria", "Lago Baikal"],
+        "respuestaCorrecta": "Mar Caspio"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuántos continentes hay en el mundo?",
+        "opciones": ["5", "6", "7", "4"],
+        "respuestaCorrecta": "7"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué cordillera separa Europa de Asia?",
+        "opciones": ["Andes", "Himalaya", "Urales", "Rocosas"],
+        "respuestaCorrecta": "Urales"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué país se encuentra el Coliseo Romano?",
+        "opciones": ["Grecia", "Italia", "España", "Francia"],
+        "respuestaCorrecta": "Italia"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital de Australia?",
+        "opciones": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+        "respuestaCorrecta": "Canberra"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué océano está entre América y Europa?",
+        "opciones": ["Índico", "Pacífico", "Atlántico", "Ártico"],
+        "respuestaCorrecta": "Atlántico"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué país tiene más fronteras con otros países?",
+        "opciones": ["Brasil", "Rusia", "China", "Alemania"],
+        "respuestaCorrecta": "China"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Dónde se encuentra el Gran Cañón?",
+        "opciones": ["México", "Estados Unidos", "Argentina", "Chile"],
+        "respuestaCorrecta": "Estados Unidos"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital de Brasil?",
+        "opciones": ["Río de Janeiro", "Brasilia", "São Paulo", "Buenos Aires"],
+        "respuestaCorrecta": "Brasilia"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué mar separa África de Europa?",
+        "opciones": ["Mar Rojo", "Mar del Norte", "Mar Mediterráneo", "Mar Báltico"],
+        "respuestaCorrecta": "Mar Mediterráneo"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es el segundo país más grande del mundo en superficie?",
+        "opciones": ["Canadá", "Estados Unidos", "China", "Brasil"],
+        "respuestaCorrecta": "Canadá"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué isla es la más grande del mundo?",
+        "opciones": ["Australia", "Groenlandia", "Madagascar", "Borneo"],
+        "respuestaCorrecta": "Groenlandia"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué ciudad se conoce como 'La Gran Manzana'?",
+        "opciones": ["Los Ángeles", "Nueva York", "Chicago", "San Francisco"],
+        "respuestaCorrecta": "Nueva York"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué país de Sudamérica tiene la mayor población?",
+        "opciones": ["Argentina", "Brasil", "Colombia", "Perú"],
+        "respuestaCorrecta": "Brasil"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital de España?",
+        "opciones": ["Barcelona", "Madrid", "Sevilla", "Valencia"],
+        "respuestaCorrecta": "Madrid"
+    }
+]

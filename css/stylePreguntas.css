@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&family=Prompt:ital@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&family=Sigmar&display=swap');
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #e0f5f4;
+}
+
+a {
+    margin-bottom: 2em;
+    background-color: violet;
+    padding: 1em 1em;
+    border-radius: 1em;
+    color: white;
+    text-decoration: none;
+}
+
+.barraProgresoContainer {
+    width: 640px;
+    background-color: #ddd;
+    margin-bottom: 1em;
+}
+
+.barraProgreso {
+    width: 0;
+    height: 20px;
+    background-color: #4caf50;
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px; 
+    width: 100%;
+    margin-bottom: 4em;
+}
+
+.encabezado {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.categoria, .pregunta {
+    margin: 10px 0;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.btn {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    margin: 5px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    width: 100%;
+    max-width: 300px;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.puntuacion {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Media query para pantallas móviles */
+@media (max-width: 768px) {
+    .barraProgresoContainer {
+        width: 90%;
+    }
+
+    .contenedor {
+        max-width: 90%;
+        padding: 10px;
+    }
+
+    .categoria, .pregunta {
+        font-size: 18px;
+    }
+
+    .btn {
+        max-width: 90%;
+        padding: 8px;
+    }
+
+    .puntuacion {
+        font-size: 18px;
+    }
+}

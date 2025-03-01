@@ -1,0 +1,170 @@
+[
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el villano principal de 'Los Vengadores' en el UCM?",
+        "opciones": ["Ultron", "Thanos", "Loki", "Red Skull"],
+        "respuestaCorrecta": "Thanos"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién interpretó a Jack Dawson en 'Titanic'?",
+        "opciones": ["Brad Pitt", "Leonardo DiCaprio", "Johnny Depp", "Tom Cruise"],
+        "respuestaCorrecta": "Leonardo DiCaprio"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué saga de películas tiene personajes como Gandalf y Frodo?",
+        "opciones": ["Harry Potter", "El Hobbit", "El Señor de los Anillos", "Las Crónicas de Narnia"],
+        "respuestaCorrecta": "El Señor de los Anillos"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama la escuela de magia en 'Harry Potter'?",
+        "opciones": ["Durmstrang", "Beauxbatons", "Hogwarts", "Ilvermorny"],
+        "respuestaCorrecta": "Hogwarts"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuál es el nombre del parque temático en 'Jurassic Park'?",
+        "opciones": ["Dinosaur World", "Jurassic Land", "Jurassic Park", "Dino Island"],
+        "respuestaCorrecta": "Jurassic Park"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿En qué serie aparece el personaje Walter White?",
+        "opciones": ["The Sopranos", "Breaking Bad", "Better Call Saul", "Narcos"],
+        "respuestaCorrecta": "Breaking Bad"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién es el creador de 'Los Simpson'?",
+        "opciones": ["Seth MacFarlane", "Matt Groening", "Trey Parker", "David X. Cohen"],
+        "respuestaCorrecta": "Matt Groening"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el planeta natal de Superman?",
+        "opciones": ["Tatooine", "Krypton", "Asgard", "Namek"],
+        "respuestaCorrecta": "Krypton"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién interpreta a Iron Man en el UCM?",
+        "opciones": ["Chris Evans", "Robert Downey Jr.", "Mark Ruffalo", "Chris Hemsworth"],
+        "respuestaCorrecta": "Robert Downey Jr."
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el villano de 'Star Wars' que es el padre de Luke Skywalker?",
+        "opciones": ["Darth Sidious", "Darth Vader", "Darth Maul", "Kylo Ren"],
+        "respuestaCorrecta": "Darth Vader"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuál de estas películas fue dirigida por Quentin Tarantino?",
+        "opciones": ["El Padrino", "Pulp Fiction", "Gladiador", "Matrix"],
+        "respuestaCorrecta": "Pulp Fiction"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué serie tiene personajes como Daenerys Targaryen y Jon Snow?",
+        "opciones": ["The Witcher", "Game of Thrones", "Vikings", "Merlín"],
+        "respuestaCorrecta": "Game of Thrones"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién es el mejor amigo de Sherlock Holmes?",
+        "opciones": ["John Watson", "Mycroft Holmes", "James Moriarty", "Lestrade"],
+        "respuestaCorrecta": "John Watson"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuál es el nombre del androide en 'Alien'?",
+        "opciones": ["Data", "Ash", "Bishop", "Marvin"],
+        "respuestaCorrecta": "Ash"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el actor que interpretó a Jack Sparrow?",
+        "opciones": ["Orlando Bloom", "Johnny Depp", "Javier Bardem", "Hugh Jackman"],
+        "respuestaCorrecta": "Johnny Depp"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuál es el nombre del director de 'E.T.' y 'Jurassic Park'?",
+        "opciones": ["George Lucas", "James Cameron", "Steven Spielberg", "Christopher Nolan"],
+        "respuestaCorrecta": "Steven Spielberg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué película animada tiene personajes como Buzz Lightyear y Woody?",
+        "opciones": ["Shrek", "Toy Story", "Los Increíbles", "Ratatouille"],
+        "respuestaCorrecta": "Toy Story"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el personaje de Jim Carrey en 'La Máscara'?",
+        "opciones": ["Stanley Ipkiss", "Ace Ventura", "Fletcher Reede", "Lloyd Christmas"],
+        "respuestaCorrecta": "Stanley Ipkiss"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién canta 'Thriller'?",
+        "opciones": ["Prince", "Elvis Presley", "Michael Jackson", "Madonna"],
+        "respuestaCorrecta": "Michael Jackson"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué película popular de los 80 tiene la frase 'No hay lugar como el hogar'?",
+        "opciones": ["E.T.", "Volver al Futuro", "El Mago de Oz", "Los Goonies"],
+        "respuestaCorrecta": "El Mago de Oz"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el parque en el que se desarrolla 'Westworld'?",
+        "opciones": ["Cyberland", "Futureworld", "Westworld", "Dreamland"],
+        "respuestaCorrecta": "Westworld"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuál de estos personajes NO pertenece a Marvel?",
+        "opciones": ["Batman", "Spider-Man", "Iron Man", "Hulk"],
+        "respuestaCorrecta": "Batman"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama la hija de Homer Simpson?",
+        "opciones": ["Lisa", "Maggie", "Jessica", "Marge"],
+        "respuestaCorrecta": "Maggie"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién interpretó a Neo en 'Matrix'?",
+        "opciones": ["Keanu Reeves", "Will Smith", "Tom Cruise", "Brad Pitt"],
+        "respuestaCorrecta": "Keanu Reeves"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué película es conocida por la frase 'Yo soy tu padre'?",
+        "opciones": ["Star Wars", "Terminator", "Blade Runner", "Alien"],
+        "respuestaCorrecta": "Star Wars"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién protagoniza 'Misión Imposible'?",
+        "opciones": ["Matt Damon", "Tom Cruise", "Leonardo DiCaprio", "Daniel Craig"],
+        "respuestaCorrecta": "Tom Cruise"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué serie de televisión se basa en los libros de George R.R. Martin?",
+        "opciones": ["El Brujo", "Los Juegos del Hambre", "Game of Thrones", "Shadow and Bone"],
+        "respuestaCorrecta": "Game of Thrones"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuál de estos actores ha interpretado a Spider-Man en el cine?",
+        "opciones": ["Henry Cavill", "Tobey Maguire", "Ben Affleck", "Christian Bale"],
+        "respuestaCorrecta": "Tobey Maguire"
+    }
+]

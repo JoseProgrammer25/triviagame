@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&family=Sigmar&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #e0f5f4;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.volver {
+    padding: 1em;
+    background-color: blueviolet;
+    border-radius: 1em;
+    color: white;
+    text-decoration: none;
+    margin-top: 1em;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1em;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(105, 161, 251);
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3em; 
+    padding: 20px;
+    justify-items: center;
+    align-items: center;
+}
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 100%;
+    max-width: 300px; 
+}
+
+.barraHistoria {
+    background-color: rgb(255, 157, 53);
+    height: 20px;
+}
+
+.barraCiencia {
+    background-color: rgb(41, 217, 41);
+    height: 20px;
+}
+
+.barraDeportes {
+    background-color: rgb(41, 144, 217);
+    height: 20px;
+}
+
+.barraEntretenimiento {
+    background-color: rgb(176, 54, 220);
+    height: 20px;
+}
+
+.barraGeografia {
+    background-color: rgb(220, 54, 54);
+    height: 20px;
+}
+
+.barraArte {
+    background-color: rgb(252, 237, 71);
+    height: 20px;
+}
+
+.contenidoInferior {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.contenidoInferior h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.contenidoInferior p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.contenidoInferior a {
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    padding: 0.2em 1em;
+    border-radius: 1em;
+}
+
+/* Media query para pantallas móviles */
+@media (max-width: 768px) {
+    main {
+        grid-template-columns: 1fr; 
+        gap: 10px; 
+    }
+
+    header h1 {
+        font-size: 36px;
+    }
+
+    .contenidoInferior h1 {
+        font-size: 20px; 
+    }
+
+    .contenidoInferior p {
+        font-size: 14px; 
+    }
+
+    .contenidoInferior a {
+        padding: 0.5em 1em; 
+    }
+}
