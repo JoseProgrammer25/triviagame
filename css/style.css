@@ -12,6 +12,7 @@ html, body {
 
 body {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     background-color: #e0f5f4;
@@ -50,4 +51,12 @@ main a {
 main a:hover {
     background-color: rgb(200, 130, 240);
     color: #000;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin-bottom: 5em;
+    text-align: center;
 }
