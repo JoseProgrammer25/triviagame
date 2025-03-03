@@ -13,7 +13,7 @@ function cargarPregunta() {
             console.error("No se encontraron preguntas en el archivo JSON.");
             return;
         }
-        preguntas = barajarArray(preguntas);
+        preguntas = barajarArray(preguntas).slice(0, 10); 
         mostrarPregunta();
     } catch (error) {
         console.error("Error al cargar las preguntas:", error);
